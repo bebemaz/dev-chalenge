@@ -1,4 +1,4 @@
-# dev-chalenge
+# dev-challenge
 Webserver challenge
 I would use terraform for this solution
 Start it by the following commands
